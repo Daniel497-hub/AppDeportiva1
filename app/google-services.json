@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1044930319011",
+    "project_id": "appdeportiva-f2910",
+    "storage_bucket": "appdeportiva-f2910.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044930319011:android:015f9bd4e69d7dd3896516",
+        "android_client_info": {
+          "package_name": "com.example.ejemplodatabase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbOhf4TG4Yx-_Vmyo5xKL3NJA6iZEJ_sk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
